@@ -1,6 +1,10 @@
 #Functions
 def testFunction(s):
   print(s)
+  
+#Return
+def getFood():
+  return "ice cream"
 
 #A Function Enabled Calculater
 def start(count):
@@ -16,4 +20,5 @@ def start(count):
     
 #The activater of the functions
 testFunction("Hello Functions!")
+print("Daniel's loves", getFood())
 start(10)
