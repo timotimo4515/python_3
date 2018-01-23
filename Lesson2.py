@@ -1,3 +1,7 @@
+#Functions
+def testFunction(s):
+  print(s)
+
 #A Function Enabled Calculater
 def start(count):
   i = 0
@@ -10,5 +14,6 @@ def start(count):
     b = sum
     i += 1
     
-#The activater of the function
+#The activater of the functions
+testFunction("Hello Functions!")
 start(10)
