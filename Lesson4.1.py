@@ -10,8 +10,11 @@ list.append("A new one")
 #Adding a item in a index
 list.insert(2, "The fake second one")
 
+#Remove Daniel
+list.remove("daniel")
+
 #Remove the first one
-list.remove(list[0])
+list.pop(0)
 
 #Display all values in the list
 print(list)
