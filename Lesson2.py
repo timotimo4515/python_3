@@ -4,7 +4,7 @@ def testFunction(s):
   
 #Return
 def getFood():
-  return "ice cream"
+  return "ice-cream"
 
 #A Function Enabled Calculater
 def start(count):
