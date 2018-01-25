@@ -1,3 +1,3 @@
 #While loop
 while True:
-  print("Hi")
+  print("Hi!")
