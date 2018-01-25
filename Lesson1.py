@@ -28,7 +28,7 @@ item2 = "apple $500"
 print(item2.capitalize())
 item3 = "poop $31230"
 print(item3.capitalize())
-item4 = "timo $1"
+item4 = "timo $2"
 print(item4.capitalize())
 
 #Ending
