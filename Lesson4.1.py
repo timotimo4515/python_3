@@ -11,7 +11,7 @@ list.append("A new one")
 list.insert(2, "The fake second one")
 
 #Remove the first one
-list.remove("angus")
+list.remove(list[0])
 
 #Display all values in the list
 print(list)
