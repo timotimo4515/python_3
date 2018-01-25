@@ -1,5 +1,5 @@
 #String Index
-s = "This is a test string!"
+s = "This is a test string."
 s_length = ien(s) - 1
 
 print("There is " + str(s_length + 1) + " letters.")
